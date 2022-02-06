@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Avr-Z7-06e"; */
+"Avr-Z7-06e.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "CzI-vD-kNh"; */
+"CzI-vD-kNh.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "DNN-Bt-o7x"; */
+"DNN-Bt-o7x.title" = "Home";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "LPL-Mt-Cqv"; */
+"LPL-Mt-Cqv.title" = "Menu";
+
+/* Class = "UINavigationItem"; title = "Third"; ObjectID = "QFF-Lh-WYA"; */
+"QFF-Lh-WYA.title" = "Third";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gUF-5n-bMt"; */
+"gUF-5n-bMt.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Second"; ObjectID = "gql-gj-nGX"; */
+"gql-gj-nGX.title" = "Second";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "nSC-0N-GzA"; */
+"nSC-0N-GzA.title" = "Item";
